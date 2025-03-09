@@ -25,4 +25,13 @@ Developed and maintained a cross-platform sales and inventory management applica
 
 ![EEG Band Discovery](/assets/img/UWP_screenshot.png)
 
+### CGPA Calculator
+
+![EEG Band Discovery](/assets/img/calculator.gif)
+
+### Estudiar
+
+![EEG Band Discovery](/assets/img/Estudiar.png)
+![EEG Band Discovery](/assets/img/PickleBall.png)
+![EEG Band Discovery](/assets/img/crossplatform.png)
 
