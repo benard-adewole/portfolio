@@ -1,4 +1,4 @@
-# Data Scientist
+# Robotics & Software Developer
 
 #### Technical Skills: Python, SQL, MATLAB
 
@@ -17,6 +17,6 @@
 
 Developed and maintained a cross-platform sales and inventory management application for supermarkets, leveraging offline-first data with background synchronization to ensure continuous functionality and prevent business data loss and downtime.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/UWP_screenshot.png)
 
 
