@@ -1,4 +1,4 @@
-# Robotics & Software Developer
+# Robotics & Software Enthusiast
 
 #### Technical Skills: Python, SQL, MATLAB
 
