@@ -23,7 +23,7 @@ Connect with me via [Email](mailto:adbenard@umich.edu), and find more about me o
 
 
 ## Software Projects
-### Adjuvant
+### Adjuvant.Biz
 
 Developed and maintained a cross-platform sales and inventory management application for supermarkets, leveraging offline-first data with background synchronization to ensure continuous functionality and prevent business data loss and downtime.
 
