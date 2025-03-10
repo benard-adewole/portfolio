@@ -35,7 +35,7 @@ This app is designed to calculate CGPA based on the 5.0 GPA grading scale. With 
 ![CGPA Calculator – Simplifying Academic Performance Tracking](/assets/img/calculator.gif)
 CGPA Calculator Interface Preview
 
-### Hoppy App Projects
+### Hobby App Projects
 
 ![EEG Band Discovery](/assets/img/Estudiar.png)
 ![EEG Band Discovery](/assets/img/PickleBall.png)
