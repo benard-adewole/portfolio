@@ -1,6 +1,6 @@
 # Robotics & Software Enthusiast
 
-##### Technical Skills: ROS, C++, Python, MATLAB, Linux, Bash, OpenCV, Git, Fusion 360, Django, SQL, C#, docker, Xamarin, MAUI
+Technical Skills: ROS, C++, Python, MATLAB, Linux, Bash, OpenCV, Git, Fusion 360, Django, SQL, C#, docker, Xamarin, MAUI
 
 ## About Me
 With interests cutting across medical robotics, autonomy, and robot perception, I am deeply passionate about incorporating Robotics, Software, and Artificial Intelligence to enhance the human quality of life. Being an active member of the Artificial Intelligence and Robotics Laboratory (AiRoL) as an undergrad at the University of Lagos, I contributed to stellar projects and co-represented the University of Lagos at the National Artificial Intelligence Summit. This summit fostered many middle school students' interest in STEM fields. I am currently enrolled in the Robotics master’s program at the University of Michigan, where I am actively learning and contributing to ongoing prosthetic research. Connect with me via [Email](mailto:adbenard@umich.edu), and find more about me on [LinkedIn](https://www.linkedin.com/in/benard-adewole/).
