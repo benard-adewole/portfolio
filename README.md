@@ -10,12 +10,6 @@ Connect with me via [Email](mailto:adbenard@umich.edu), and find more about me o
 - M.S., Robotics	          | University of Michigan (_May 2026_)	 			        		
 - B.S., Systems Engineering | University of Lagos (_Jun 2023_)
 
-| Item              | In Stock | Price |
-| :---------------- | :------: | ----: |
-| Python Hat        |   True   | 23.99 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
 ## News							       		
 - Jan 2025 - Benard is awarded a fellowship with [Black in Robotics (BiR) + 3M](https://blackinrobotics.org/bir-3m-ms-student-tuition-fellowship) Program
 - Apr 2024 - Benard is awarded the Roger Ehrenberg and Carin Levine Ehrenberg Fellowship by the Department of Robotics, University of Michigan
