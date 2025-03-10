@@ -28,7 +28,7 @@ Connect with me via [Email](mailto:adbenard@umich.edu), and find more about me o
 Developed and maintained a cross-platform sales and inventory management application for supermarkets, leveraging offline-first data with background synchronization to ensure continuous functionality and prevent business data loss and downtime.
 
 ![Sales Inventory App – Streamlining Product Management and Tracking](/assets/img/UWP_screenshot.png)
-Dashboard and Overview of the Sales Inventory App Features
+Dashboard and Overview of the Sales Inventory App Rich Features
 
 ### CGPA Calculator
 This app is designed to calculate CGPA based on the 5.0 GPA grading scale. With an intuitive interface, it allows users to input their course grades and automatically computes their CGPA, helping students track and manage their academic performance with ease. A hosted version of this app can be found [here](https://appetize.io/app/qu33yg6uba3657z6g3h9dbtaqg?device=pixel4&osVersion=11.0&scale=75)
