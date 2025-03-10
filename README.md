@@ -31,7 +31,7 @@ Developed and maintained a cross-platform sales and inventory management applica
 Dashboard and Overview of the Sales Inventory App Features
 
 ### CGPA Calculator
-
+A hosted version of this app can be found [here](https://appetize.io/app/qu33yg6uba3657z6g3h9dbtaqg?device=pixel4&osVersion=11.0&scale=75)
 ![CGPA Calculator – Simplifying Academic Performance Tracking](/assets/img/calculator.gif)
 CGPA Calculator Interface Preview
 
