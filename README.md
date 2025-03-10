@@ -26,11 +26,11 @@ With interests cutting across medical robotics, autonomy, and robot perception, 
 
 Developed and maintained a cross-platform sales and inventory management application for supermarkets, leveraging offline-first data with background synchronization to ensure continuous functionality and prevent business data loss and downtime.
 
-![jjj](/assets/img/UWP_screenshot.png)
+![Sales Inventory App – Streamlining Product Management and Tracking](/assets/img/UWP_screenshot.png "Dashboard and Overview of the Sales Inventory App Features")
 
 ### CGPA Calculator
 
-![EEG Band Discovery](/assets/img/calculator.gif)
+![CGPA Calculator – Simplifying Academic Performance Tracking](/assets/img/calculator.gif "CGPA Calculator Interface Preview")
 
 ### Hoppy App Projects
 
