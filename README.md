@@ -1,4 +1,4 @@
-# Robotics & Software Enthusiast
+# Robotics & Software Developer
 
 Technical Skills: ROS, C++, Python, MATLAB, Linux, Bash, OpenCV, Git, Fusion 360, Django, SQL, C#, docker, Xamarin, MAUI
 
