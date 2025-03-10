@@ -26,13 +26,13 @@ With interests cutting across medical robotics, autonomy, and robot perception, 
 
 Developed and maintained a cross-platform sales and inventory management application for supermarkets, leveraging offline-first data with background synchronization to ensure continuous functionality and prevent business data loss and downtime.
 
-![](/assets/img/UWP_screenshot.png)
+![jjj](/assets/img/UWP_screenshot.png)
 
 ### CGPA Calculator
 
 ![EEG Band Discovery](/assets/img/calculator.gif)
 
-### Unpublished Apps
+### Hoppy App Projects
 
 ![EEG Band Discovery](/assets/img/Estudiar.png)
 ![EEG Band Discovery](/assets/img/PickleBall.png)
