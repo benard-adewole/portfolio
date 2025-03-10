@@ -16,30 +16,29 @@ Connect with me via [Email](mailto:adbenard@umich.edu), and find more about me o
 - Jan 2023 - Benard is awarded prizes for graduating as the Best Student of the Department of Systems Engineering, University of Lagos.
 - Oct 2019 - Benard is awarded a three-year scholarship by the [MTN Foundation](https://www.mtn.ng/scholarships/).
 
-## Work Experience
-**Vertex Technologies (_Feb 2023 - Present_)**
-- 
+## Robotics Projects
+#### SLAM
 
-
+#### Fingerprint Attendance System
 
 ## Software Projects
-### Adjuvant.Biz
+#### Adjuvant.Biz
 
 Developed and maintained a cross-platform sales and inventory management application for supermarkets, leveraging offline-first data with background synchronization to ensure continuous functionality and prevent business data loss and downtime.
 
 ![Sales Inventory App – Streamlining Product Management and Tracking](/assets/img/UWP_screenshot.png)
-Dashboard and Overview of the Sales Inventory App Rich Features
+Dashboard and Overview of the Sales Inventory App Rich Features (Windows Runtime)
 ![Sales Inventory App – Streamlining Product Management and Tracking](/assets/img/androidAdjuvant.png)
-Filter and Export Reports that capture business information
+Filter and Export Reports that capture business information (Android Runtime)
 ![Sales Inventory App – Streamlining Product Management and Tracking](/assets/img/iosadjuvant.png)
-Register new business with Adjuvant.Biz
+Register new business with Adjuvant.Biz (iOS Runtime)
 
-### CGPA Calculator
+#### CGPA Calculator
 This app is designed to calculate CGPA based on the 5.0 GPA grading scale. With an intuitive interface, it allows users to input their course grades and automatically computes their CGPA, helping students track and manage their academic performance with ease. A hosted version of this app can be found [here](https://appetize.io/app/qu33yg6uba3657z6g3h9dbtaqg?device=pixel4&osVersion=11.0&scale=75)
 ![CGPA Calculator – Simplifying Academic Performance Tracking](/assets/img/calculator.gif)
 CGPA Calculator Interface Preview
 
-### Hobby App Projects
+#### Hobby App Projects
 
 ![EEG Band Discovery](/assets/img/Estudiar.png)
 ![EEG Band Discovery](/assets/img/PickleBall.png)
