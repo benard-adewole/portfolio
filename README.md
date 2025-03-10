@@ -29,6 +29,10 @@ Developed and maintained a cross-platform sales and inventory management applica
 
 ![Sales Inventory App – Streamlining Product Management and Tracking](/assets/img/UWP_screenshot.png)
 Dashboard and Overview of the Sales Inventory App Rich Features
+![Sales Inventory App – Streamlining Product Management and Tracking](/assets/img/androidAdjuvant.png)
+Filter and Export Reports that capture business information
+![Sales Inventory App – Streamlining Product Management and Tracking](/assets/img/iosadjuvant.png)
+Register new business with Adjuvant.Biz
 
 ### CGPA Calculator
 This app is designed to calculate CGPA based on the 5.0 GPA grading scale. With an intuitive interface, it allows users to input their course grades and automatically computes their CGPA, helping students track and manage their academic performance with ease. A hosted version of this app can be found [here](https://appetize.io/app/qu33yg6uba3657z6g3h9dbtaqg?device=pixel4&osVersion=11.0&scale=75)
