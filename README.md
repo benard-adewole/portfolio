@@ -11,7 +11,7 @@ Connect with me via [Email](mailto:adbenard@umich.edu), and find more about me o
 - B.S., Systems Engineering | University of Lagos (_Jun 2023_)
 
 ## News							       		
-- Jan 2025 | Benard awarded a fellowship with [Black in Robotics (BiR) + 3M](https://blackinrobotics.org/bir-3m-ms-student-tuition-fellowship)
+- Jan 2025 | Benard is awarded a fellowship with [Black in Robotics (BiR) + 3M](https://blackinrobotics.org/bir-3m-ms-student-tuition-fellowship) Program
 - Apr 2024 | Benard is awarded the Roger Ehrenberg and Carin Levine Ehrenberg Fellowship by the Department of Robotics, University of Michigan
 - Jan 2023 | Benard is awarded prizes for graduating as the Best Student of the Department of Systems Engineering, University of Lagos.
 - Oct 2019 | Benard is awarded a three-year scholarship by the [MTN Foundation](https://www.mtn.ng/scholarships/).
