@@ -3,7 +3,7 @@
 Technical Skills: ROS, C++, Python, MATLAB, Linux, Bash, OpenCV, Git, Fusion 360, Django, SQL, C#, docker, Xamarin, MAUI
 
 ## About Me
-With interests cutting across medical robotics, autonomy, and robot perception, I am deeply passionate about incorporating Robotics, Software, and Artificial Intelligence to enhance the human quality of life. As an active member of the Artificial Intelligence and Robotics Laboratory (AiRoL) during my undergraduate studies at the University of Lagos, I contributed to impactful projects and had the honor of co-representing the university at the [National Artificial Intelligence Summit 2022](https://aisummit.ncs.org.ng/ai-summit-2022/) under the mentorship of Dr. Chika Yinka-Banjo. This summit played a key role in inspiring many middle school students to explore STEM fields. 
+With interests cutting across medical robotics, autonomy, and robot perception, I am deeply passionate about incorporating Robotics, Software, and Artificial Intelligence to enhance the human quality of life. As an active member of the Artificial Intelligence and Robotics Laboratory (AiRoL) during my undergraduate studies at the University of Lagos, I contributed to impactful projects and had the honor of co-representing the university at the [Nigeria National Artificial Intelligence Summit 2022](https://aisummit.ncs.org.ng/ai-summit-2022/) under the mentorship of Dr. Chika Yinka-Banjo. This summit played a key role in inspiring many middle school students to explore STEM fields. 
 Connect with me via [Email](mailto:adbenard@umich.edu), and find more about me on [LinkedIn](https://www.linkedin.com/in/benard-adewole/).
 
 ## Education							       		
