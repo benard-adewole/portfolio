@@ -16,10 +16,9 @@ Connect with me via [Email](mailto:adbenard@umich.edu), and find more about me o
 - Jan 2023 - Benard is awarded prizes for graduating as the Best Student of the Department of Systems Engineering, University of Lagos.
 - Oct 2019 - Benard is awarded a three-year scholarship by the [MTN Foundation](https://www.mtn.ng/scholarships/).
 
-## Robotics Projects
+<!-- ## Robotics Projects
 #### SLAM
-
-#### Fingerprint Attendance System
+#### Fingerprint Attendance System-->
 
 ## Software Projects
 #### Adjuvant.Biz
