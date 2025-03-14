@@ -7,8 +7,8 @@ With interests cutting across medical robotics, autonomy, and robot perception, 
 Connect with me via [Email](mailto:adbenard@umich.edu), and find more about me on [LinkedIn](https://www.linkedin.com/in/benard-adewole/).
 
 ## Education							       		
-- M.S., Robotics	          | University of Michigan (_May 2026_)	 			        		
-- B.S., Systems Engineering | University of Lagos (_Jun 2023_)
+- M.S., Robotics - University of Michigan (_May 2026_)	 			        		
+- B.S., Systems Engineering - University of Lagos (_Jun 2023_)
 
 ## News							       		
 - Jan 2025 - Benard is awarded a fellowship with [Black in Robotics (BiR) + 3M](https://blackinrobotics.org/bir-3m-ms-student-tuition-fellowship) Program
